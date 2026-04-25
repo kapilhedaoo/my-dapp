@@ -1,0 +1,36 @@
+
+https://www.openzeppelin.com/ - contracts library
+
+https://hardhat.org/ - dev env
+
+https://remix.ethereum.org/ - online IDE
+
+npm install @openzeppelin/contracts
+
+npx hardhat  (to install hardhat for project)
+
+npx hardhat run .\scripts\mint-script.js
+
+waffle - smart contracts testing
+
+***Alchemy deployment
+https://dashboard.alchemy.com/
+
+API key - btwFxpgKLxD1L_v-hQ8rfkmkap8dlH5G
+https://eth-sepolia.g.alchemy.com/v2/btwFxpgKLxD1L_v-hQ8rfkmkap8dlH5G
+
+Open metamask and add test network Sepolia with above url & chain id - 11155111 (search google for any n/w chain id)
+
+hackersrank, 
+656363
+
+0x44971ABF0251958492FeE97dA3e5C5adA88B9185
+
+29-Aug-23 LINK 1d NRD
+
+MM - sepolia 0.1 eth
+pond prison audit write jelly only fossil system twenty awkward slab exact
+
+divorse screen bench small turkey artist step solid deny news basic illegal
+
+RPC - Remote Procedure Call
